@@ -1,9 +1,9 @@
-Example Usage
+spprint
 ===
 
 Python module to create deep, formatted viualization of python dictionaries and lists
 
-spprint
+Example Usage
 ---
 
 To visualize an object using `spprint`:
